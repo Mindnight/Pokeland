@@ -246,7 +246,7 @@ if (typeof demFeels.extendEmotes === 'function') {
 	':wow:': 'http://i2.kym-cdn.com/photos/images/newsfeed/000/270/623/337.gif',
 	'feelspoop': 'https://thepandanerd.files.wordpress.com/2015/09/tumblr_mn4yqwc1i91srkw8zo1_400.png',
 	':wally:': 'http://gifimage.net/wp-content/uploads/2017/07/eddy-wally-wow-gif-13.gif',
-	':OKE:': 'http://i0.kym-cdn.com/entries/icons/facebook/000/019/649/OK_thumb.jpg',
+	':oke:': 'http://i0.kym-cdn.com/entries/icons/facebook/000/019/649/OK_thumb.jpg',
 	':rip:': 'https://image.noelshack.com/fichiers/2017/35/3/1504078281-rip.png',
 	':clap:': 'https://i.giphy.com/media/7rj2ZgttvgomY/giphy.webp',
 	'fdpoulpe': 'https://i.giphy.com/media/PxdWYostrUcz6/giphy.webp',
